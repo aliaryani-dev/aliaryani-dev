@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **C++ and exploit/malware development**
 
 - 📫 How to reach me **lenesis@proton.me**
-- ⚡ Fun fact **C++ is superior to Rust, and any other language.**
+- ⚡ **Implementation is much more important than the language.**
 
 <div> <a href="https://twitter.com/aliaryani_sec" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/aliaryani-security" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
