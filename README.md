@@ -2,7 +2,7 @@
 <h1 align="center">Hello There, I'm Ali Aryani</h1>
 <h3 align="center">A Cybersecurity Enthusiast</h3>
 
-- 🔭 I’m currently working on [Learning C++](https://github.com/aliaryani-security/cpp-learning-pro)
+- 🔭 I’m currently working on [Learning Rust](https://github.com/aliaryani-security/learning-rust)
 - 🌱 I’m currently learning **C++ and exploit/malware development**
 
 - 📫 How to reach me **lenesis@proton.me**
