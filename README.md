@@ -2,11 +2,11 @@
 <h1 align="center">Hello There, I'm Ali.</h1>
 <h3 align="center">A never-stops-learning always-has-new-ideas programmer!</h3>
 
-- 🔭 I’m currently working on [Learning Rust](https://github.com/aliaryani-dev/learning-rust)
-- 🌱 I’m currently learning **Rust; Linux and UNIX systems.**
+<!--- 🔭 I’m currently working on [Learning Rust](https://github.com/aliaryani-dev/learning-rust)-->
+- 🌱 I’m currently learning **C++23**
 
 - 📫 How to reach me **lenesis@proton.me**
-- 📝 I regularly write articles on **https://dev.to/aliaryani-dev**
+<!-- - 📝 I regularly write articles on **https://dev.to/aliaryani-dev** -->
 - ⚡ Fact **Implementation is more important than the language.**
 
 <div> <a href="https://twitter.com/aliaryani_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -21,7 +21,6 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/rust-plain.svg" alt="Rust" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
